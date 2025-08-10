@@ -1,7 +1,7 @@
 # Exploratory Data Analysis on Superstore Dataset
 
 ## 📌 Overview
-Proyek ini merupakan tugas akhir yang menganalisis **dataset Superstore** untuk menemukan pola penjualan, perilaku pelanggan, dan profitabilitas. Analisis dilakukan menggunakan Python untuk mengolah data, membersihkan data, dan membuat visualisasi guna menghasilkan insight yang bermanfaat bagi pengambilan keputusan bisnis.
+This project analyzes the **Superstore dataset** to identify sales trends, customer behavior, and profitability patterns. The analysis was conducted using Python to clean, process, and visualize the data, providing valuable insights for business decision-making.
 
 ## 🛠 Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -9,21 +9,19 @@ Proyek ini merupakan tugas akhir yang menganalisis **dataset Superstore** untuk 
 - Jupyter Notebook / Google Colab
 
 ## 🔍 Steps
-1. **Data Loading** – Import dataset SuperStore.xlsx.
-2. **Data Cleaning** – Memeriksa dan menangani missing values.
-3. **Descriptive Analysis** – Menghitung statistik dasar seperti rata-rata, jumlah, dan distribusi data.
-4. **Data Visualization** – Membuat visualisasi tren penjualan, profit per kategori, segmentasi pelanggan, dan analisis diskon.
+1. **Data Loading** – Importing the SuperStore.xlsx dataset.
+2. **Data Cleaning** – Checking and handling missing values.
+3. **Descriptive Analysis** – Calculating basic statistics such as mean, sum, and data distribution.
+4. **Data Visualization** – Creating visualizations for sales trends, profit by category, customer segmentation, and discount impact.
 
 ## 📊 Key Insights
-- **Kategori Technology** memberikan profit tertinggi.
-- Beberapa sub-kategori di **Furniture** sering mengalami kerugian.
-- **West** region memiliki volume penjualan tertinggi.
-- Penjualan meningkat signifikan di bulan November–Desember.
-- Diskon tinggi cenderung mengurangi profit.
+- **Technology** category generates the highest profit.
+- Some sub-categories in **Furniture** often experience losses.
+- **West** region has the highest sales volume.
+- Sales peak in **November–December**.
+- High discounts often reduce profitability.
 
 ## 📂 Files
-- `Proyek_Akhir_ShortClass_EDA_Agil.ipynb` – Notebook analisis lengkap.
-- `Final Project Exploratory Data Analysis on Superstore Dataset.pdf` – Laporan hasil analisis.
-- `SuperStore.xlsx` – Dataset asli.
-
-
+- `Proyek_Akhir_ShortClass_EDA_Agil.ipynb` – Complete analysis notebook.
+- `Final Project Exploratory Data Analysis on Superstore Dataset.pdf` – Analysis report.
+- `SuperStore.xlsx` – Original dataset.
